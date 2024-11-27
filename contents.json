@@ -1,0 +1,2879 @@
+{
+  "RECORDS": [
+    {
+      "eng": "adopted_child",
+      "twi": "Abanoma",
+      "category": "5"
+    },
+    {
+      "eng": "alligator",
+      "twi": "Ɔkyekyen",
+      "category": "1"
+    },
+    {
+      "eng": "animal",
+      "twi": "Aboa",
+      "category": "1"
+    },
+    {
+      "eng": "animals",
+      "twi": "Mmoa",
+      "category": "1"
+    },
+    {
+      "eng": "ants",
+      "twi": "Tɛtea",
+      "category": "1"
+    },
+    {
+      "eng": "ape",
+      "twi": "Kontromfi",
+      "category": "1"
+    },
+    {
+      "eng": "apple",
+      "twi": "Aprɛ",
+      "category": "6"
+    },
+    {
+      "eng": "arm",
+      "twi": "Abasa",
+      "category": "2"
+    },
+    {
+      "eng": "armpit",
+      "twi": "Mmɔtoam",
+      "category": "2"
+    },
+    {
+      "eng": "ask",
+      "twi": "Bisa",
+      "category": "7"
+    },
+    {
+      "eng": "baby",
+      "twi": "Abofra",
+      "category": "5"
+    },
+    {
+      "eng": "banana",
+      "twi": "Kwadu",
+      "category": "6"
+    },
+    {
+      "eng": "bank",
+      "twi": "Sikakorabea",
+      "category": "3"
+    },
+    {
+      "eng": "bat",
+      "twi": "Ampan",
+      "category": "1"
+    },
+    {
+      "eng": "bathe",
+      "twi": "Dware",
+      "category": "7"
+    },
+    {
+      "eng": "bean",
+      "twi": "Adua",
+      "category": "6"
+    },
+    {
+      "eng": "bear",
+      "twi": "Sisire",
+      "category": "1"
+    },
+    {
+      "eng": "beard",
+      "twi": "Abɔdwesɛ nhwi",
+      "category": "2"
+    },
+    {
+      "eng": "bedbug",
+      "twi": "Nsonkuronsuo",
+      "category": "1"
+    },
+    {
+      "eng": "bee",
+      "twi": "Wowa",
+      "category": "1"
+    },
+    {
+      "eng": "beetle",
+      "twi": "Ɔbankuo",
+      "category": "1"
+    },
+    {
+      "eng": "believe",
+      "twi": "Gye di",
+      "category": "7"
+    },
+    {
+      "eng": "bird",
+      "twi": "Anomaa",
+      "category": "1"
+    },
+    {
+      "eng": "bite_1",
+      "twi": "Ka",
+      "category": "7"
+    },
+    {
+      "eng": "bladder",
+      "twi": "Dwonsɔtwaa",
+      "category": "2"
+    },
+    {
+      "eng": "blood",
+      "twi": "Mogya",
+      "category": "2"
+    },
+    {
+      "eng": "body",
+      "twi": "Nipadua",
+      "category": "2"
+    },
+    {
+      "eng": "bone",
+      "twi": "Dompe",
+      "category": "2"
+    },
+    {
+      "eng": "brain_1",
+      "twi": "Adwene",
+      "category": "2"
+    },
+    {
+      "eng": "brain_2",
+      "twi": "Amemene",
+      "category": "2"
+    },
+    {
+      "eng": "bread_1",
+      "twi": "Paanoo",
+      "category": "6"
+    },
+    {
+      "eng": "bread_2",
+      "twi": "Burodo",
+      "category": "6"
+    },
+    {
+      "eng": "break_v",
+      "twi": "Bu",
+      "category": "7"
+    },
+    {
+      "eng": "breast",
+      "twi": "Nufuo",
+      "category": "2"
+    },
+    {
+      "eng": "bring_it",
+      "twi": "Fa bra",
+      "category": "7"
+    },
+    {
+      "eng": "brother",
+      "twi": "Nuabarima",
+      "category": "5"
+    },
+    {
+      "eng": "brother_in_law",
+      "twi": "Akonta",
+      "category": "5"
+    },
+    {
+      "eng": "brothers",
+      "twi": "Nua mmarima",
+      "category": "5"
+    },
+    {
+      "eng": "buffalo",
+      "twi": "Ɛkoɔ",
+      "category": "1"
+    },
+    {
+      "eng": "butterfly",
+      "twi": "Afofantɔ",
+      "category": "1"
+    },
+    {
+      "eng": "buttock",
+      "twi": "Ɛto",
+      "category": "2"
+    },
+    {
+      "eng": "buy",
+      "twi": "Tɔ",
+      "category": "3"
+    },
+    {
+      "eng": "buy",
+      "twi": "Tɔ",
+      "category": "7"
+    },
+    {
+      "eng": "buy_for_me",
+      "twi": "Tɔ ma me",
+      "category": "3"
+    },
+    {
+      "eng": "buy_on_credit",
+      "twi": "Firi",
+      "category": "7"
+    },
+    {
+      "eng": "calculate_work_sums",
+      "twi": "Bu akontaa",
+      "category": "7"
+    },
+    {
+      "eng": "calf",
+      "twi": "Nantu",
+      "category": "2"
+    },
+    {
+      "eng": "call",
+      "twi": "Frɛ",
+      "category": "7"
+    },
+    {
+      "eng": "call_me",
+      "twi": "Frɛ me",
+      "category": "4"
+    },
+    {
+      "eng": "camel",
+      "twi": "Yoma",
+      "category": "1"
+    },
+    {
+      "eng": "can_i_pay_tomorrow",
+      "twi": "Metumi atua no ɔkyena?",
+      "category": "3"
+    },
+    {
+      "eng": "carry",
+      "twi": "Soa",
+      "category": "7"
+    },
+    {
+      "eng": "cassava",
+      "twi": "Bankye",
+      "category": "6"
+    },
+    {
+      "eng": "cat_1",
+      "twi": "Ɔkra",
+      "category": "1"
+    },
+    {
+      "eng": "cat_2",
+      "twi": "Agyinamoa",
+      "category": "1"
+    },
+    {
+      "eng": "cattle",
+      "twi": "Nantwie",
+      "category": "1"
+    },
+    {
+      "eng": "centipede",
+      "twi": "Sakasaka",
+      "category": "1"
+    },
+    {
+      "eng": "chameleon",
+      "twi": "Abosomakoterɛ",
+      "category": "1"
+    },
+    {
+      "eng": "cheek",
+      "twi": "Afono",
+      "category": "2"
+    },
+    {
+      "eng": "chest_1",
+      "twi": "Koko",
+      "category": "2"
+    },
+    {
+      "eng": "chest_2",
+      "twi": "Bo",
+      "category": "2"
+    },
+    {
+      "eng": "child_1",
+      "twi": "Abofra",
+      "category": "5"
+    },
+    {
+      "eng": "child_2",
+      "twi": "Akwadaa",
+      "category": "5"
+    },
+    {
+      "eng": "children_1",
+      "twi": "Mma",
+      "category": "5"
+    },
+    {
+      "eng": "children_2",
+      "twi": "Mmofra",
+      "category": "5"
+    },
+    {
+      "eng": "chin",
+      "twi": "Abɔdwe",
+      "category": "2"
+    },
+    {
+      "eng": "climb",
+      "twi": "foro",
+      "category": "7"
+    },
+    {
+      "eng": "cockroach",
+      "twi": "Tɛfrɛ",
+      "category": "1"
+    },
+    {
+      "eng": "cocoa",
+      "twi": "Kokoo",
+      "category": "6"
+    },
+    {
+      "eng": "coconut",
+      "twi": "Kube",
+      "category": "6"
+    },
+    {
+      "eng": "come_out",
+      "twi": "Fi bra",
+      "category": "7"
+    },
+    {
+      "eng": "congratulations",
+      "twi": "Ayekoo",
+      "category": "4"
+    },
+    {
+      "eng": "continue_v",
+      "twi": "Kɔ so",
+      "category": "7"
+    },
+    {
+      "eng": "converse_1",
+      "twi": "Bɔ nkɔmmɔ",
+      "category": "7"
+    },
+    {
+      "eng": "converse_2",
+      "twi": "Di nkɔmmɔ",
+      "category": "7"
+    },
+    {
+      "eng": "corn",
+      "twi": "Aburo",
+      "category": "6"
+    },
+    {
+      "eng": "cousin_1",
+      "twi": "Nua",
+      "category": "5"
+    },
+    {
+      "eng": "cousin_2",
+      "twi": "Wɔfa ba",
+      "category": "5"
+    },
+    {
+      "eng": "cousin_3",
+      "twi": "Sewaa ba",
+      "category": "5"
+    },
+    {
+      "eng": "cow",
+      "twi": "Nantwibere",
+      "category": "1"
+    },
+    {
+      "eng": "crab",
+      "twi": "Kɔtɔ",
+      "category": "1"
+    },
+    {
+      "eng": "crocodile",
+      "twi": "Ɔdɛnkyɛm",
+      "category": "1"
+    },
+    {
+      "eng": "crow",
+      "twi": "Kwaakwaadabi",
+      "category": "1"
+    },
+    {
+      "eng": "cry",
+      "twi": "Su",
+      "category": "7"
+    },
+    {
+      "eng": "cucumber",
+      "twi": "Ɛferɛ",
+      "category": "6"
+    },
+    {
+      "eng": "cut",
+      "twi": "Twa",
+      "category": "7"
+    },
+    {
+      "eng": "daddy",
+      "twi": "Dada",
+      "category": "5"
+    },
+    {
+      "eng": "dance",
+      "twi": "Sa",
+      "category": "7"
+    },
+    {
+      "eng": "daughter",
+      "twi": "Babaa",
+      "category": "5"
+    },
+    {
+      "eng": "daughter_in_law_1",
+      "twi": "Asew",
+      "category": "5"
+    },
+    {
+      "eng": "daughter_in_law_2",
+      "twi": "Babarima yere",
+      "category": "5"
+    },
+    {
+      "eng": "daughters",
+      "twi": "Mma mmaa",
+      "category": "5"
+    },
+    {
+      "eng": "deceive",
+      "twi": "Daadaa",
+      "category": "7"
+    },
+    {
+      "eng": "deer",
+      "twi": "Ɔforote",
+      "category": "1"
+    },
+    {
+      "eng": "divide_or_share",
+      "twi": "Kyɛ",
+      "category": "7"
+    },
+    {
+      "eng": "do_you_have_money",
+      "twi": "Wowɔ sika?",
+      "category": "4"
+    },
+    {
+      "eng": "do_you_love_me",
+      "twi": "Wo dɔ me?",
+      "category": "4"
+    },
+    {
+      "eng": "do_you_sell___here",
+      "twi": "Wotɔn...wɔ ha?",
+      "category": "3"
+    },
+    {
+      "eng": "do_you_sell_food_here",
+      "twi": "Wotɔn aduane wɔ ha?",
+      "category": "3"
+    },
+    {
+      "eng": "do_you_speak_english",
+      "twi": "Wo ka borɔfo?",
+      "category": "4"
+    },
+    {
+      "eng": "do_you_understand_english",
+      "twi": "Wo te borɔfo?",
+      "category": "4"
+    },
+    {
+      "eng": "dog",
+      "twi": "Kraman",
+      "category": "1"
+    },
+    {
+      "eng": "donkey",
+      "twi": "Afurum",
+      "category": "1"
+    },
+    {
+      "eng": "dont_ask",
+      "twi": "Mmisa",
+      "category": "7"
+    },
+    {
+      "eng": "dont_bathe",
+      "twi": "Nnware",
+      "category": "7"
+    },
+    {
+      "eng": "dont_believe",
+      "twi": "Nnye nni",
+      "category": "7"
+    },
+    {
+      "eng": "dont_bite_1",
+      "twi": "Nka",
+      "category": "7"
+    },
+    {
+      "eng": "dont_break",
+      "twi": "Mmu",
+      "category": "7"
+    },
+    {
+      "eng": "dont_bring_it",
+      "twi": "Mfa mma",
+      "category": "7"
+    },
+    {
+      "eng": "dont_buy",
+      "twi": "Ntɔ",
+      "category": "7"
+    },
+    {
+      "eng": "dont_buy_on_credit",
+      "twi": "Mfiri",
+      "category": "7"
+    },
+    {
+      "eng": "dont_calculate_work_sums",
+      "twi": "Mmu Akontaa",
+      "category": "7"
+    },
+    {
+      "eng": "dont_call",
+      "twi": " mfrɛ",
+      "category": "7"
+    },
+    {
+      "eng": "dont_carry",
+      "twi": "Nsoa",
+      "category": "7"
+    },
+    {
+      "eng": "dont_climb",
+      "twi": "Nforo",
+      "category": "7"
+    },
+    {
+      "eng": "dont_come",
+      "twi": "Mma",
+      "category": "7"
+    },
+    {
+      "eng": "dont_come_out",
+      "twi": "Mfi mma",
+      "category": "7"
+    },
+    {
+      "eng": "dont_continue",
+      "twi": "Gyae",
+      "category": "7"
+    },
+    {
+      "eng": "dont_converse_1",
+      "twi": "Mmɔ Nkɔmmɔ",
+      "category": "7"
+    },
+    {
+      "eng": "dont_converse_2",
+      "twi": "Nni Nkɔmmɔ",
+      "category": "7"
+    },
+    {
+      "eng": "dont_cry",
+      "twi": "Nsu",
+      "category": "7"
+    },
+    {
+      "eng": "dont_cut",
+      "twi": "Ntwa",
+      "category": "7"
+    },
+    {
+      "eng": "dont_deceive",
+      "twi": "Nnaadaa",
+      "category": "7"
+    },
+    {
+      "eng": "dont_divide_or_share",
+      "twi": "Nkyɛ",
+      "category": "7"
+    },
+    {
+      "eng": "dont_drink",
+      "twi": "Nnom",
+      "category": "7"
+    },
+    {
+      "eng": "dont_dry",
+      "twi": "Nhata",
+      "category": "7"
+    },
+    {
+      "eng": "dont_eat",
+      "twi": "Nnidi",
+      "category": "7"
+    },
+    {
+      "eng": "dont_fight",
+      "twi": "Nko",
+      "category": "7"
+    },
+    {
+      "eng": "dont_fry",
+      "twi": "Nkye",
+      "category": "7"
+    },
+    {
+      "eng": "dont_give",
+      "twi": "Mma",
+      "category": "7"
+    },
+    {
+      "eng": "dont_go",
+      "twi": "Nkɔ",
+      "category": "7"
+    },
+    {
+      "eng": "dont_greet",
+      "twi": "Nkyea",
+      "category": "7"
+    },
+    {
+      "eng": "dont_help",
+      "twi": "Mmoa",
+      "category": "7"
+    },
+    {
+      "eng": "dont_joke",
+      "twi": "Nni agorɔ",
+      "category": "7"
+    },
+    {
+      "eng": "dont_keep_long",
+      "twi": "Nkyɛ",
+      "category": "7"
+    },
+    {
+      "eng": "dont_lick",
+      "twi": "Ntafere",
+      "category": "7"
+    },
+    {
+      "eng": "dont_look_at",
+      "twi": "Nhwɛ",
+      "category": "7"
+    },
+    {
+      "eng": "dont_look_for_or_search",
+      "twi": "Nhwehwɛ",
+      "category": "7"
+    },
+    {
+      "eng": "dont_meet",
+      "twi": "Nhyia",
+      "category": "7"
+    },
+    {
+      "eng": "dont_open",
+      "twi": "Mmue",
+      "category": "7"
+    },
+    {
+      "eng": "dont_peel",
+      "twi": "Nsensene",
+      "category": "7"
+    },
+    {
+      "eng": "dont_plant",
+      "twi": "Nnua",
+      "category": "7"
+    },
+    {
+      "eng": "dont_play",
+      "twi": "Nni agorɔ",
+      "category": "7"
+    },
+    {
+      "eng": "dont_praise",
+      "twi": "Nkamfo",
+      "category": "7"
+    },
+    {
+      "eng": "dont_put_on_shoes",
+      "twi": "Nhyɛ mpaboa",
+      "category": "7"
+    },
+    {
+      "eng": "dont_quarrel",
+      "twi": "Nham",
+      "category": "7"
+    },
+    {
+      "eng": "dont_read_1",
+      "twi": "Nkan",
+      "category": "7"
+    },
+    {
+      "eng": "dont_read_2",
+      "twi": "Nkenkan",
+      "category": "7"
+    },
+    {
+      "eng": "dont_rest",
+      "twi": "Nhome",
+      "category": "7"
+    },
+    {
+      "eng": "dont_see_him_off",
+      "twi": "Nnya no kwan",
+      "category": "7"
+    },
+    {
+      "eng": "dont_sell",
+      "twi": "Ntɔn",
+      "category": "7"
+    },
+    {
+      "eng": "dont_shout",
+      "twi": "Ntea mu",
+      "category": "7"
+    },
+    {
+      "eng": "dont_show_1",
+      "twi": "Nkyerɛ",
+      "category": "7"
+    },
+    {
+      "eng": "dont_sleep",
+      "twi": "Nna",
+      "category": "7"
+    },
+    {
+      "eng": "dont_speak_1",
+      "twi": "Nkasa",
+      "category": "7"
+    },
+    {
+      "eng": "dont_stop",
+      "twi": "Nnyina",
+      "category": "7"
+    },
+    {
+      "eng": "dont_take",
+      "twi": "Mfa",
+      "category": "7"
+    },
+    {
+      "eng": "dont_take_it__receive_it__have_it",
+      "twi": "Nnye",
+      "category": "7"
+    },
+    {
+      "eng": "dont_take_it_away",
+      "twi": "Mfa nkɔ",
+      "category": "7"
+    },
+    {
+      "eng": "dont_take_it_to___",
+      "twi": "Mfa nkɔma ...",
+      "category": "7"
+    },
+    {
+      "eng": "dont_talk_1",
+      "twi": "Nkasa",
+      "category": "7"
+    },
+    {
+      "eng": "dont_teach_1",
+      "twi": "Nkyerɛ",
+      "category": "7"
+    },
+    {
+      "eng": "dont_think",
+      "twi": "Nnwen",
+      "category": "7"
+    },
+    {
+      "eng": "dont_try",
+      "twi": "Mmɔ mmɔden",
+      "category": "7"
+    },
+    {
+      "eng": "dont_walk",
+      "twi": "Nnante",
+      "category": "7"
+    },
+    {
+      "eng": "dont_wash",
+      "twi": "Nhohoro",
+      "category": "7"
+    },
+    {
+      "eng": "dont_wear",
+      "twi": "Nhyɛ",
+      "category": "7"
+    },
+    {
+      "eng": "dough",
+      "twi": "Mmɔre",
+      "category": "6"
+    },
+    {
+      "eng": "dove",
+      "twi": "Aborɔnoma",
+      "category": "1"
+    },
+    {
+      "eng": "drink",
+      "twi": "Nom",
+      "category": "7"
+    },
+    {
+      "eng": "driver_ants",
+      "twi": "Nkrane",
+      "category": "1"
+    },
+    {
+      "eng": "dry",
+      "twi": "Hata",
+      "category": "7"
+    },
+    {
+      "eng": "duck",
+      "twi": "Dabodabo",
+      "category": "1"
+    },
+    {
+      "eng": "eagle",
+      "twi": "Ɔkɔre",
+      "category": "1"
+    },
+    {
+      "eng": "ear",
+      "twi": "Aso",
+      "category": "2"
+    },
+    {
+      "eng": "eat",
+      "twi": "Didi",
+      "category": "7"
+    },
+    {
+      "eng": "egg",
+      "twi": "Kosua",
+      "category": "6"
+    },
+    {
+      "eng": "eighth_born",
+      "twi": "Awɔtwe",
+      "category": "5"
+    },
+    {
+      "eng": "elbow",
+      "twi": "Abatwɛ",
+      "category": "2"
+    },
+    {
+      "eng": "elephant",
+      "twi": "Ɔsono",
+      "category": "1"
+    },
+    {
+      "eng": "eleventh_born",
+      "twi": "Duko",
+      "category": "5"
+    },
+    {
+      "eng": "eye",
+      "twi": "Ani",
+      "category": "2"
+    },
+    {
+      "eng": "eyeball",
+      "twi": "Ani kosua",
+      "category": "2"
+    },
+    {
+      "eng": "eyebrow_1",
+      "twi": "Ani akyi nhwi",
+      "category": "2"
+    },
+    {
+      "eng": "eyebrow_2",
+      "twi": "Ani ntɔn nhwi",
+      "category": "2"
+    },
+    {
+      "eng": "eyelashes_1",
+      "twi": "Anisoatɛtɛ",
+      "category": "2"
+    },
+    {
+      "eng": "eyelashes_2",
+      "twi": "Ani ntɔn",
+      "category": "2"
+    },
+    {
+      "eng": "face",
+      "twi": "Anim",
+      "category": "2"
+    },
+    {
+      "eng": "families",
+      "twi": "Mmusua",
+      "category": "5"
+    },
+    {
+      "eng": "father_1",
+      "twi": "Papa",
+      "category": "5"
+    },
+    {
+      "eng": "father_2",
+      "twi": "Agya",
+      "category": "5"
+    },
+    {
+      "eng": "father_3",
+      "twi": "Ɔse",
+      "category": "5"
+    },
+    {
+      "eng": "father_in_law",
+      "twi": "Asebarima",
+      "category": "5"
+    },
+    {
+      "eng": "fifth_born",
+      "twi": "Anum",
+      "category": "5"
+    },
+    {
+      "eng": "fight",
+      "twi": "Ko",
+      "category": "7"
+    },
+    {
+      "eng": "finger",
+      "twi": "Nsateaa",
+      "category": "2"
+    },
+    {
+      "eng": "fingernail",
+      "twi": "Mmɔwerɛ",
+      "category": "2"
+    },
+    {
+      "eng": "firstborn_1",
+      "twi": "Abakan",
+      "category": "5"
+    },
+    {
+      "eng": "firstborn_2",
+      "twi": "Piesie",
+      "category": "5"
+    },
+    {
+      "eng": "fish_1",
+      "twi": "Apataa",
+      "category": "1"
+    },
+    {
+      "eng": "fish_1",
+      "twi": "Apataa",
+      "category": "6"
+    },
+    {
+      "eng": "fish_2",
+      "twi": "Nsuomnam",
+      "category": "1"
+    },
+    {
+      "eng": "fish_2",
+      "twi": "Nsuomnam",
+      "category": "6"
+    },
+    {
+      "eng": "flour",
+      "twi": "Esiam",
+      "category": "6"
+    },
+    {
+      "eng": "food",
+      "twi": "Aduane",
+      "category": "6"
+    },
+    {
+      "eng": "forehead",
+      "twi": "Moma",
+      "category": "2"
+    },
+    {
+      "eng": "fourth_born",
+      "twi": "Anane",
+      "category": "5"
+    },
+    {
+      "eng": "fowl",
+      "twi": "Akokɔ",
+      "category": "1"
+    },
+    {
+      "eng": "frown",
+      "twi": "Muna",
+      "category": "7"
+    },
+    {
+      "eng": "fruit",
+      "twi": "Aduaba",
+      "category": "6"
+    },
+    {
+      "eng": "fry",
+      "twi": "kye",
+      "category": "7"
+    },
+    {
+      "eng": "garden_eggs",
+      "twi": "Nyaadewa",
+      "category": "6"
+    },
+    {
+      "eng": "garlic",
+      "twi": "Galik",
+      "category": "6"
+    },
+    {
+      "eng": "gh",
+      "twi": "gh",
+      "category": "7"
+    },
+    {
+      "eng": "ginger",
+      "twi": "Akekaduro",
+      "category": "6"
+    },
+    {
+      "eng": "give",
+      "twi": "Ma",
+      "category": "7"
+    },
+    {
+      "eng": "give_me_a_hug",
+      "twi": "Yɛ me atuu",
+      "category": "4"
+    },
+    {
+      "eng": "give_me_discount",
+      "twi": "Te me so",
+      "category": "3"
+    },
+    {
+      "eng": "give_me_money",
+      "twi": "Ma me sika",
+      "category": "3"
+    },
+    {
+      "eng": "go",
+      "twi": "Kɔ",
+      "category": "7"
+    },
+    {
+      "eng": "goat_1",
+      "twi": "Apɔnkye",
+      "category": "1"
+    },
+    {
+      "eng": "goat_2",
+      "twi": "Abirekyie",
+      "category": "1"
+    },
+    {
+      "eng": "good_afternoon_1",
+      "twi": "Maaha",
+      "category": "4"
+    },
+    {
+      "eng": "good_afternoon_2",
+      "twi": "Mema wo aha",
+      "category": "4"
+    },
+    {
+      "eng": "good_evening_1",
+      "twi": "Maadwo",
+      "category": "4"
+    },
+    {
+      "eng": "good_evening_2",
+      "twi": "Mema wo adwo",
+      "category": "4"
+    },
+    {
+      "eng": "good_morning_2",
+      "twi": "Mema wo akye",
+      "category": "4"
+    },
+    {
+      "eng": "good_night",
+      "twi": "Da yie",
+      "category": "4"
+    },
+    {
+      "eng": "grandchild",
+      "twi": "Banana",
+      "category": "5"
+    },
+    {
+      "eng": "grandfather",
+      "twi": "Nanabarima",
+      "category": "5"
+    },
+    {
+      "eng": "grandmother",
+      "twi": "Nanabaa",
+      "category": "5"
+    },
+    {
+      "eng": "grasscutter",
+      "twi": "Akranteɛ",
+      "category": "1"
+    },
+    {
+      "eng": "grasshopper",
+      "twi": "Abɛbɛ",
+      "category": "1"
+    },
+    {
+      "eng": "great_grandchild",
+      "twi": "Nanankanso",
+      "category": "5"
+    },
+    {
+      "eng": "great_grandfather",
+      "twi": "Nanabarima prenu",
+      "category": "5"
+    },
+    {
+      "eng": "great_grandmother",
+      "twi": "Nanabaa prenu",
+      "category": "5"
+    },
+    {
+      "eng": "greet",
+      "twi": "Kyea",
+      "category": "7"
+    },
+    {
+      "eng": "groundnut",
+      "twi": "Nkateɛ",
+      "category": "6"
+    },
+    {
+      "eng": "groundnut_soup",
+      "twi": "Nkate nkwan",
+      "category": "6"
+    },
+    {
+      "eng": "guinea_fowl",
+      "twi": "Akɔmfɛm",
+      "category": "1"
+    },
+    {
+      "eng": "gum",
+      "twi": "Ɛse akyi nam",
+      "category": "2"
+    },
+    {
+      "eng": "hair",
+      "twi": "Nhwi",
+      "category": "2"
+    },
+    {
+      "eng": "hawk",
+      "twi": "Akorɔma",
+      "category": "1"
+    },
+    {
+      "eng": "he_is_fine",
+      "twi": "Ne ho yɛ",
+      "category": "4"
+    },
+    {
+      "eng": "head",
+      "twi": "Eti",
+      "category": "2"
+    },
+    {
+      "eng": "heart",
+      "twi": "Koma",
+      "category": "2"
+    },
+    {
+      "eng": "hedgehog_1",
+      "twi": "Apɛsɛ",
+      "category": "1"
+    },
+    {
+      "eng": "hedgehog_2",
+      "twi": "Apɛsɛe",
+      "category": "1"
+    },
+    {
+      "eng": "heel",
+      "twi": "Nantin",
+      "category": "2"
+    },
+    {
+      "eng": "help",
+      "twi": "Boa",
+      "category": "7"
+    },
+    {
+      "eng": "help_me",
+      "twi": "Boa me",
+      "category": "4"
+    },
+    {
+      "eng": "help_us",
+      "twi": "Boa yɛn",
+      "category": "4"
+    },
+    {
+      "eng": "herring",
+      "twi": "Ɛmane",
+      "category": "1"
+    },
+    {
+      "eng": "hip_1",
+      "twi": "Dwonku",
+      "category": "2"
+    },
+    {
+      "eng": "hip_2",
+      "twi": "Asen",
+      "category": "2"
+    },
+    {
+      "eng": "hippopotamus",
+      "twi": "Susono",
+      "category": "1"
+    },
+    {
+      "eng": "honey",
+      "twi": "Ɛwoɔ",
+      "category": "6"
+    },
+    {
+      "eng": "horse",
+      "twi": "Pɔnkɔ",
+      "category": "1"
+    },
+    {
+      "eng": "house_fly",
+      "twi": "Nwansena",
+      "category": "1"
+    },
+    {
+      "eng": "how_are_they_doing",
+      "twi": "Wɔn ho te sɛn?",
+      "category": "4"
+    },
+    {
+      "eng": "how_are_you",
+      "twi": "Wo ho te sɛn?",
+      "category": "4"
+    },
+    {
+      "eng": "how_is_your_mother",
+      "twi": "Wo maame ho te sɛn?",
+      "category": "4"
+    },
+    {
+      "eng": "how_is_your_wife",
+      "twi": "Wo yere ho te sɛn?",
+      "category": "4"
+    },
+    {
+      "eng": "how_many_do_you_want_to_buy",
+      "twi": "Ahe na wopɛ sɛ wotɔ?",
+      "category": "3"
+    },
+    {
+      "eng": "how_much_do_you_sell_it",
+      "twi": "Wotɔn no sɛn?",
+      "category": "3"
+    },
+    {
+      "eng": "how_much_is_it",
+      "twi": "Ɛyɛ sɛn",
+      "category": "3"
+    },
+    {
+      "eng": "how_much_is_this",
+      "twi": "Wei yɛ sɛn?",
+      "category": "3"
+    },
+    {
+      "eng": "how_much_will_you_buy",
+      "twi": "Wobɛtɔ sɛn?",
+      "category": "3"
+    },
+    {
+      "eng": "how_old_are_you",
+      "twi": "Wadi mfe sɛn?",
+      "category": "4"
+    },
+    {
+      "eng": "human",
+      "twi": "Nipa",
+      "category": "2"
+    },
+    {
+      "eng": "husband",
+      "twi": "Kunu",
+      "category": "5"
+    },
+    {
+      "eng": "husbands",
+      "twi": "Kununom",
+      "category": "5"
+    },
+    {
+      "eng": "hyena",
+      "twi": "Pataku",
+      "category": "1"
+    },
+    {
+      "eng": "i_am_30_years_old",
+      "twi": "Madi mfe aduasa",
+      "category": "4"
+    },
+    {
+      "eng": "i_am_buying___",
+      "twi": "Meretɔ...",
+      "category": "3"
+    },
+    {
+      "eng": "i_am_buying_food",
+      "twi": "Meretɔ aduane",
+      "category": "3"
+    },
+    {
+      "eng": "i_am_fine",
+      "twi": "Me ho yɛ",
+      "category": "4"
+    },
+    {
+      "eng": "i_am_going_to_the_market",
+      "twi": "Merekɔ dwaso",
+      "category": "3"
+    },
+    {
+      "eng": "i_am_happy",
+      "twi": "M'ani agye",
+      "category": "4"
+    },
+    {
+      "eng": "i_am_happy_to_meet_you",
+      "twi": "M'ani agye sɛ mahyia wo",
+      "category": "4"
+    },
+    {
+      "eng": "i_am_lost",
+      "twi": "Mayera",
+      "category": "4"
+    },
+    {
+      "eng": "i_am_not_feeling_well_1",
+      "twi": "Me ho mfa me",
+      "category": "4"
+    },
+    {
+      "eng": "i_am_not_feeling_well_2",
+      "twi": "Mente apɔ",
+      "category": "4"
+    },
+    {
+      "eng": "i_am_sad",
+      "twi": "Me werɛ ahow",
+      "category": "4"
+    },
+    {
+      "eng": "i_am_sick",
+      "twi": "Me yare",
+      "category": "4"
+    },
+    {
+      "eng": "i_bid_you_welcome",
+      "twi": "Mema wo akwaaba",
+      "category": "4"
+    },
+    {
+      "eng": "i_cant_pay",
+      "twi": "Mentumi ntua",
+      "category": "3"
+    },
+    {
+      "eng": "i_dont_have_money",
+      "twi": "Menni sika",
+      "category": "3"
+    },
+    {
+      "eng": "i_have_made_a_loss",
+      "twi": "Mabɔ ka",
+      "category": "3"
+    },
+    {
+      "eng": "i_have_made_profit",
+      "twi": "Manya mfasoɔ",
+      "category": "3"
+    },
+    {
+      "eng": "i_have_money",
+      "twi": "Mewɔ sika",
+      "category": "3"
+    },
+    {
+      "eng": "i_love_you",
+      "twi": "Me dɔ wo",
+      "category": "4"
+    },
+    {
+      "eng": "i_miss_you",
+      "twi": "Mafe wo",
+      "category": "4"
+    },
+    {
+      "eng": "i_need_help",
+      "twi": "Me hia mmoa",
+      "category": "4"
+    },
+    {
+      "eng": "i_need_money",
+      "twi": "Me hia sika",
+      "category": "4"
+    },
+    {
+      "eng": "i_want_discount",
+      "twi": "Mepɛ ntesoɔ",
+      "category": "3"
+    },
+    {
+      "eng": "i_want_to_buy__",
+      "twi": "Mepɛ sɛ metɔ...",
+      "category": "3"
+    },
+    {
+      "eng": "i_want_to_sell__",
+      "twi": "Mepɛ sɛ metɔn...",
+      "category": "3"
+    },
+    {
+      "eng": "i_want_to_sell_clothes",
+      "twi": "Mepɛ sɛ metɔn ntade",
+      "category": "3"
+    },
+    {
+      "eng": "i_want_you_to_give_to_me_on_credit",
+      "twi": "Mepɛ sɛ wode firi me",
+      "category": "3"
+    },
+    {
+      "eng": "i_will_buy",
+      "twi": "Mɛtɔ",
+      "category": "3"
+    },
+    {
+      "eng": "i_will_buy_food",
+      "twi": "Mɛtɔ aduane",
+      "category": "3"
+    },
+    {
+      "eng": "i_will_buy_two",
+      "twi": "Mɛtɔ mmienu",
+      "category": "3"
+    },
+    {
+      "eng": "i_will_make_a_loss",
+      "twi": "Mɛbɔ ka",
+      "category": "3"
+    },
+    {
+      "eng": "i_will_make_profit",
+      "twi": "Mɛnya mfasoɔ",
+      "category": "3"
+    },
+    {
+      "eng": "i_will_miss_you",
+      "twi": "Mɛfe wo",
+      "category": "4"
+    },
+    {
+      "eng": "i_will_not_buy",
+      "twi": "Me ntɔ",
+      "category": "3"
+    },
+    {
+      "eng": "i_will_not_buy_food",
+      "twi": "Me ntɔ aduane",
+      "category": "3"
+    },
+    {
+      "eng": "in_law",
+      "twi": "Asew",
+      "category": "5"
+    },
+    {
+      "eng": "intestine",
+      "twi": "Nsono",
+      "category": "2"
+    },
+    {
+      "eng": "it_is_a_lion",
+      "twi": "Ɛyɛ gyata",
+      "category": "1"
+    },
+    {
+      "eng": "it_is_cheap",
+      "twi": "Ɛyɛ fo",
+      "category": "3"
+    },
+    {
+      "eng": "it_is_expensive",
+      "twi": "Ne bo yɛ den",
+      "category": "3"
+    },
+    {
+      "eng": "it_is_fifty_cedis",
+      "twi": "Ɛyɛ cedis aduonum",
+      "category": "3"
+    },
+    {
+      "eng": "it_is_too_cheap",
+      "twi": "Ɛyɛ fo dodo",
+      "category": "3"
+    },
+    {
+      "eng": "it_is_too_expensive",
+      "twi": "Ne bo yɛ den dodo",
+      "category": "3"
+    },
+    {
+      "eng": "joke",
+      "twi": "Di agorɔ",
+      "category": "7"
+    },
+    {
+      "eng": "keep_long",
+      "twi": "Kyɛ",
+      "category": "7"
+    },
+    {
+      "eng": "kenkey",
+      "twi": "Dɔkono",
+      "category": "6"
+    },
+    {
+      "eng": "knee",
+      "twi": "Kotodwe",
+      "category": "2"
+    },
+    {
+      "eng": "lamb",
+      "twi": "Oguammaa",
+      "category": "1"
+    },
+    {
+      "eng": "lamb",
+      "twi": "Odwannam",
+      "category": "6"
+    },
+    {
+      "eng": "lastborn",
+      "twi": "Kaakyire",
+      "category": "5"
+    },
+    {
+      "eng": "leg",
+      "twi": "Nan",
+      "category": "2"
+    },
+    {
+      "eng": "leopard",
+      "twi": "Ɔsebɔ",
+      "category": "1"
+    },
+    {
+      "eng": "lice",
+      "twi": "Edwie",
+      "category": "1"
+    },
+    {
+      "eng": "lick",
+      "twi": "Tafere",
+      "category": "7"
+    },
+    {
+      "eng": "lion",
+      "twi": "Gyata",
+      "category": "1"
+    },
+    {
+      "eng": "lips",
+      "twi": "Anofafa",
+      "category": "2"
+    },
+    {
+      "eng": "liver",
+      "twi": "Berɛboɔ",
+      "category": "2"
+    },
+    {
+      "eng": "lizard",
+      "twi": "Koterɛ",
+      "category": "1"
+    },
+    {
+      "eng": "lobster",
+      "twi": "Ɔbɔnkɔ",
+      "category": "1"
+    },
+    {
+      "eng": "lobster",
+      "twi": "Ɔbɔnkɔ",
+      "category": "6"
+    },
+    {
+      "eng": "lobsters",
+      "twi": "Mmɔnkɔ",
+      "category": "1"
+    },
+    {
+      "eng": "locust_1",
+      "twi": "Ntutummɛ",
+      "category": "1"
+    },
+    {
+      "eng": "locust_2",
+      "twi": "Mmoadabi",
+      "category": "1"
+    },
+    {
+      "eng": "look_at",
+      "twi": "Hwɛ",
+      "category": "7"
+    },
+    {
+      "eng": "look_for_or_search",
+      "twi": "Hwehwɛ",
+      "category": "7"
+    },
+    {
+      "eng": "loss",
+      "twi": "Ɛka",
+      "category": "3"
+    },
+    {
+      "eng": "love",
+      "twi": "Ɔdɔ",
+      "category": "4"
+    },
+    {
+      "eng": "lung",
+      "twi": "Ahrawa",
+      "category": "2"
+    },
+    {
+      "eng": "maize",
+      "twi": "Aburo",
+      "category": "6"
+    },
+    {
+      "eng": "market_1",
+      "twi": "Gua",
+      "category": "3"
+    },
+    {
+      "eng": "market_2",
+      "twi": "Dwaso",
+      "category": "3"
+    },
+    {
+      "eng": "marriage",
+      "twi": "Awareɛ",
+      "category": "5"
+    },
+    {
+      "eng": "maternal_aunt_1",
+      "twi": "Maame nuabaa",
+      "category": "5"
+    },
+    {
+      "eng": "maternal_aunt_2",
+      "twi": "Maame",
+      "category": "5"
+    },
+    {
+      "eng": "maternal_uncle",
+      "twi": "Wɔfa",
+      "category": "5"
+    },
+    {
+      "eng": "meat_1",
+      "twi": "Nam",
+      "category": "6"
+    },
+    {
+      "eng": "meat_2",
+      "twi": "Mogyanam",
+      "category": "6"
+    },
+    {
+      "eng": "meet",
+      "twi": "Hyia",
+      "category": "7"
+    },
+    {
+      "eng": "millipede",
+      "twi": "Kankabi",
+      "category": "1"
+    },
+    {
+      "eng": "monitor_lizard",
+      "twi": "Ɔmampam",
+      "category": "1"
+    },
+    {
+      "eng": "monkey",
+      "twi": "Adoe",
+      "category": "1"
+    },
+    {
+      "eng": "mosquito",
+      "twi": "Ntontom",
+      "category": "1"
+    },
+    {
+      "eng": "mother_1",
+      "twi": "Maame",
+      "category": "5"
+    },
+    {
+      "eng": "mother_2",
+      "twi": "Ɛna",
+      "category": "5"
+    },
+    {
+      "eng": "mother_3",
+      "twi": "Oni",
+      "category": "5"
+    },
+    {
+      "eng": "mother_in_law",
+      "twi": "Asebaa",
+      "category": "5"
+    },
+    {
+      "eng": "mouse",
+      "twi": "Akura",
+      "category": "1"
+    },
+    {
+      "eng": "moustache_1",
+      "twi": "Ano ho nhwi",
+      "category": "2"
+    },
+    {
+      "eng": "moustache_2",
+      "twi": "Mfemfem",
+      "category": "2"
+    },
+    {
+      "eng": "mouth",
+      "twi": "Ano",
+      "category": "2"
+    },
+    {
+      "eng": "mummy",
+      "twi": "Mama",
+      "category": "5"
+    },
+    {
+      "eng": "mutton",
+      "twi": "Odwannam",
+      "category": "6"
+    },
+    {
+      "eng": "my_change",
+      "twi": "Me nsesa",
+      "category": "3"
+    },
+    {
+      "eng": "my_cousin",
+      "twi": "Me nua",
+      "category": "5"
+    },
+    {
+      "eng": "my_father_1",
+      "twi": "Me papa",
+      "category": "5"
+    },
+    {
+      "eng": "my_father_2",
+      "twi": "M'agya",
+      "category": "5"
+    },
+    {
+      "eng": "my_father_3",
+      "twi": "Me se",
+      "category": "5"
+    },
+    {
+      "eng": "my_maternal_aunt",
+      "twi": "Me maame nuabaa",
+      "category": "5"
+    },
+    {
+      "eng": "my_mother_1",
+      "twi": "Me maame",
+      "category": "5"
+    },
+    {
+      "eng": "my_mother_2",
+      "twi": "Me na",
+      "category": "5"
+    },
+    {
+      "eng": "my_mother_3",
+      "twi": "Me ni",
+      "category": "5"
+    },
+    {
+      "eng": "my_name_is_kwaku_1",
+      "twi": "Yɛfrɛ me Kwaku",
+      "category": "4"
+    },
+    {
+      "eng": "my_name_is_kwaku_2",
+      "twi": "Me din de Kwaku",
+      "category": "4"
+    },
+    {
+      "eng": "my_paternal_aunt",
+      "twi": "Me Sewaa",
+      "category": "5"
+    },
+    {
+      "eng": "nag",
+      "twi": "Kwane",
+      "category": "7"
+    },
+    {
+      "eng": "navel",
+      "twi": "Afunuma",
+      "category": "2"
+    },
+    {
+      "eng": "neck",
+      "twi": "Kɔn",
+      "category": "2"
+    },
+    {
+      "eng": "nephew",
+      "twi": "Wɔfaase barima",
+      "category": "5"
+    },
+    {
+      "eng": "niece",
+      "twi": "Wɔfaase baa",
+      "category": "5"
+    },
+    {
+      "eng": "niece_nephew",
+      "twi": "Wɔfaase",
+      "category": "5"
+    },
+    {
+      "eng": "ninth_born",
+      "twi": "Nkroma",
+      "category": "5"
+    },
+    {
+      "eng": "no",
+      "twi": "Dabi",
+      "category": "4"
+    },
+    {
+      "eng": "nose",
+      "twi": "Hwene",
+      "category": "2"
+    },
+    {
+      "eng": "occiput",
+      "twi": "Atikɔ",
+      "category": "2"
+    },
+    {
+      "eng": "oil",
+      "twi": "Ngo",
+      "category": "6"
+    },
+    {
+      "eng": "okro",
+      "twi": "Nkuruma",
+      "category": "6"
+    },
+    {
+      "eng": "older_twin",
+      "twi": "Ata panyin",
+      "category": "5"
+    },
+    {
+      "eng": "onion",
+      "twi": "Gyeene",
+      "category": "6"
+    },
+    {
+      "eng": "open",
+      "twi": "Bue",
+      "category": "7"
+    },
+    {
+      "eng": "orange_1",
+      "twi": "Ankaa",
+      "category": "6"
+    },
+    {
+      "eng": "orange_2",
+      "twi": "Akutu",
+      "category": "6"
+    },
+    {
+      "eng": "orphan",
+      "twi": "Agyanka",
+      "category": "5"
+    },
+    {
+      "eng": "owl",
+      "twi": "Patuo",
+      "category": "1"
+    },
+    {
+      "eng": "palm",
+      "twi": "Nsayam",
+      "category": "2"
+    },
+    {
+      "eng": "palm_fruit",
+      "twi": "Abɛ",
+      "category": "6"
+    },
+    {
+      "eng": "palm_kernel",
+      "twi": "Adwe",
+      "category": "6"
+    },
+    {
+      "eng": "palm_kernel_oil",
+      "twi": "Adwe ngo",
+      "category": "6"
+    },
+    {
+      "eng": "palm_nut_soup",
+      "twi": "Abɛ nkwan",
+      "category": "6"
+    },
+    {
+      "eng": "parent",
+      "twi": "Ɔwofo",
+      "category": "5"
+    },
+    {
+      "eng": "parents",
+      "twi": "Awofo",
+      "category": "5"
+    },
+    {
+      "eng": "parrot",
+      "twi": "Akoo",
+      "category": "1"
+    },
+    {
+      "eng": "paternal_aunt",
+      "twi": "Sewaa",
+      "category": "5"
+    },
+    {
+      "eng": "paternal_uncle_1",
+      "twi": "Papa",
+      "category": "5"
+    },
+    {
+      "eng": "paternal_uncle_2",
+      "twi": "Agya",
+      "category": "5"
+    },
+    {
+      "eng": "paternal_uncle_3",
+      "twi": "Papa nuabarima",
+      "category": "5"
+    },
+    {
+      "eng": "pawpaw",
+      "twi": "Borɔferɛ",
+      "category": "6"
+    },
+    {
+      "eng": "pay",
+      "twi": "Tua",
+      "category": "3"
+    },
+    {
+      "eng": "pay_for_it",
+      "twi": "Tua ka",
+      "category": "3"
+    },
+    {
+      "eng": "pay_for_me",
+      "twi": "Tua ma me",
+      "category": "3"
+    },
+    {
+      "eng": "pay_me",
+      "twi": "Tua me",
+      "category": "3"
+    },
+    {
+      "eng": "peacock",
+      "twi": "Koohaa",
+      "category": "1"
+    },
+    {
+      "eng": "peanut",
+      "twi": "Nkateɛ",
+      "category": "6"
+    },
+    {
+      "eng": "pear",
+      "twi": "Paya",
+      "category": "6"
+    },
+    {
+      "eng": "peel",
+      "twi": "Sensene",
+      "category": "7"
+    },
+    {
+      "eng": "pepper",
+      "twi": "Mako",
+      "category": "6"
+    },
+    {
+      "eng": "pick",
+      "twi": "Fa",
+      "category": "7"
+    },
+    {
+      "eng": "pig",
+      "twi": "Prako",
+      "category": "1"
+    },
+    {
+      "eng": "pineapple",
+      "twi": "Aborɔbɛ",
+      "category": "6"
+    },
+    {
+      "eng": "plant",
+      "twi": "Dua",
+      "category": "7"
+    },
+    {
+      "eng": "plantain",
+      "twi": "Bɔɔdeɛ",
+      "category": "6"
+    },
+    {
+      "eng": "play",
+      "twi": "Di agorɔ",
+      "category": "7"
+    },
+    {
+      "eng": "please_1",
+      "twi": "Mepa wo kyɛw",
+      "category": "4"
+    },
+    {
+      "eng": "please_2",
+      "twi": "Mesrɛ wo",
+      "category": "4"
+    },
+    {
+      "eng": "please_reduce_the_price_a_little",
+      "twi": "Mesrɛ wo te so kakra",
+      "category": "3"
+    },
+    {
+      "eng": "porcupine",
+      "twi": "Kɔtɔkɔ",
+      "category": "1"
+    },
+    {
+      "eng": "pork",
+      "twi": "Prakonam",
+      "category": "6"
+    },
+    {
+      "eng": "praise",
+      "twi": "Kamfo",
+      "category": "7"
+    },
+    {
+      "eng": "praying_mantis",
+      "twi": "Akokromfi",
+      "category": "1"
+    },
+    {
+      "eng": "profit",
+      "twi": "Mfasoɔ",
+      "category": "3"
+    },
+    {
+      "eng": "pull",
+      "twi": "Twe",
+      "category": "7"
+    },
+    {
+      "eng": "push",
+      "twi": "Pia",
+      "category": "7"
+    },
+    {
+      "eng": "put_on_shoes",
+      "twi": "Hyɛ mpaboa",
+      "category": "7"
+    },
+    {
+      "eng": "quadruplets",
+      "twi": "Ahenanan",
+      "category": "5"
+    },
+    {
+      "eng": "quarrel",
+      "twi": "Ham",
+      "category": "7"
+    },
+    {
+      "eng": "rabbit",
+      "twi": "Adanko",
+      "category": "1"
+    },
+    {
+      "eng": "rat",
+      "twi": "Kusie",
+      "category": "1"
+    },
+    {
+      "eng": "read_1",
+      "twi": "Kan",
+      "category": "7"
+    },
+    {
+      "eng": "read_2",
+      "twi": "Kenkan",
+      "category": "7"
+    },
+    {
+      "eng": "red_tree_ant",
+      "twi": "Nhohoa",
+      "category": "1"
+    },
+    {
+      "eng": "rest",
+      "twi": "Home",
+      "category": "7"
+    },
+    {
+      "eng": "ribs_1",
+      "twi": "Mparow",
+      "category": "2"
+    },
+    {
+      "eng": "ribs_2",
+      "twi": "Mfe mpade",
+      "category": "2"
+    },
+    {
+      "eng": "salt",
+      "twi": "Nkyene",
+      "category": "6"
+    },
+    {
+      "eng": "say_it_in_english",
+      "twi": "Ka no borɔfo?",
+      "category": "4"
+    },
+    {
+      "eng": "scorpion",
+      "twi": "Akekantwɛre",
+      "category": "1"
+    },
+    {
+      "eng": "scream",
+      "twi": "Tea mu",
+      "category": "7"
+    },
+    {
+      "eng": "second_born",
+      "twi": "Manu",
+      "category": "5"
+    },
+    {
+      "eng": "see_him_off",
+      "twi": "Gya no kwan",
+      "category": "7"
+    },
+    {
+      "eng": "see_you_soon",
+      "twi": "Ɛrenkyɛ mehu wo",
+      "category": "4"
+    },
+    {
+      "eng": "sell",
+      "twi": "Tɔn",
+      "category": "3"
+    },
+    {
+      "eng": "sell",
+      "twi": "Tɔn",
+      "category": "7"
+    },
+    {
+      "eng": "seventh_born",
+      "twi": "Anson",
+      "category": "5"
+    },
+    {
+      "eng": "shake",
+      "twi": "Wosow",
+      "category": "7"
+    },
+    {
+      "eng": "shark",
+      "twi": "Oboodede",
+      "category": "1"
+    },
+    {
+      "eng": "she_is_fine",
+      "twi": "Ne ho yɛ",
+      "category": "4"
+    },
+    {
+      "eng": "sheep",
+      "twi": "Odwan",
+      "category": "1"
+    },
+    {
+      "eng": "shop",
+      "twi": "Sotɔɔ",
+      "category": "3"
+    },
+    {
+      "eng": "shoulder",
+      "twi": "Abati",
+      "category": "2"
+    },
+    {
+      "eng": "shout",
+      "twi": "Tea mu",
+      "category": "7"
+    },
+    {
+      "eng": "show_1",
+      "twi": "Kyerɛ",
+      "category": "7"
+    },
+    {
+      "eng": "show_me_the_way",
+      "twi": "Kyerɛ me kwan no",
+      "category": "4"
+    },
+    {
+      "eng": "sibling",
+      "twi": "Nua",
+      "category": "5"
+    },
+    {
+      "eng": "siblings",
+      "twi": "Nuanom",
+      "category": "5"
+    },
+    {
+      "eng": "sister",
+      "twi": "Nuabaa",
+      "category": "5"
+    },
+    {
+      "eng": "sister_in_law",
+      "twi": "Akumaa",
+      "category": "5"
+    },
+    {
+      "eng": "sisters",
+      "twi": "Nua mmaa",
+      "category": "5"
+    },
+    {
+      "eng": "sit",
+      "twi": "Tena ase",
+      "category": "7"
+    },
+    {
+      "eng": "sixth_born",
+      "twi": "Nsiah",
+      "category": "5"
+    },
+    {
+      "eng": "skin",
+      "twi": "Honam",
+      "category": "2"
+    },
+    {
+      "eng": "skull",
+      "twi": "Tikwankora",
+      "category": "2"
+    },
+    {
+      "eng": "sleep",
+      "twi": "Da",
+      "category": "7"
+    },
+    {
+      "eng": "snail",
+      "twi": "Nwa",
+      "category": "6"
+    },
+    {
+      "eng": "snake",
+      "twi": "Ɔwɔ",
+      "category": "1"
+    },
+    {
+      "eng": "son",
+      "twi": "Babarima",
+      "category": "5"
+    },
+    {
+      "eng": "son_in_law_1",
+      "twi": "Asew",
+      "category": "5"
+    },
+    {
+      "eng": "son_in_law_2",
+      "twi": "Babaa kunu",
+      "category": "5"
+    },
+    {
+      "eng": "sons",
+      "twi": "mma mmarima",
+      "category": "5"
+    },
+    {
+      "eng": "sorry_1",
+      "twi": "Kafra",
+      "category": "4"
+    },
+    {
+      "eng": "sorry_2",
+      "twi": "Kosɛ",
+      "category": "4"
+    },
+    {
+      "eng": "soup",
+      "twi": "Nkwan",
+      "category": "6"
+    },
+    {
+      "eng": "sparrow",
+      "twi": "Akasanoma",
+      "category": "1"
+    },
+    {
+      "eng": "speak_1",
+      "twi": "Kasa",
+      "category": "7"
+    },
+    {
+      "eng": "spider",
+      "twi": "Ananse",
+      "category": "1"
+    },
+    {
+      "eng": "spine",
+      "twi": "Akyi berɛmo",
+      "category": "2"
+    },
+    {
+      "eng": "squirrel",
+      "twi": "Opuro",
+      "category": "1"
+    },
+    {
+      "eng": "stammer_1",
+      "twi": "Po dodoɔ",
+      "category": "7"
+    },
+    {
+      "eng": "stammer_2",
+      "twi": "Horo so",
+      "category": "7"
+    },
+    {
+      "eng": "stew",
+      "twi": "Abomu",
+      "category": "6"
+    },
+    {
+      "eng": "stomach_1",
+      "twi": "Yafunu",
+      "category": "2"
+    },
+    {
+      "eng": "stomach_2",
+      "twi": "Yam",
+      "category": "2"
+    },
+    {
+      "eng": "stop",
+      "twi": "Gyina",
+      "category": "7"
+    },
+    {
+      "eng": "stop_crying",
+      "twi": "Gyae su",
+      "category": "4"
+    },
+    {
+      "eng": "sugar",
+      "twi": "Asikyire",
+      "category": "6"
+    },
+    {
+      "eng": "sugarcane",
+      "twi": "Ahwedeɛ",
+      "category": "6"
+    },
+    {
+      "eng": "swallow",
+      "twi": "Asomfena",
+      "category": "1"
+    },
+    {
+      "eng": "take",
+      "twi": "Fa",
+      "category": "7"
+    },
+    {
+      "eng": "take_it__receive_it__have_it",
+      "twi": "Gye",
+      "category": "7"
+    },
+    {
+      "eng": "take_it_away",
+      "twi": "Fa kɔ",
+      "category": "7"
+    },
+    {
+      "eng": "take_it_to___",
+      "twi": "Fa kɔma ...",
+      "category": "7"
+    },
+    {
+      "eng": "talk_1",
+      "twi": "Kasa",
+      "category": "7"
+    },
+    {
+      "eng": "teach_1",
+      "twi": "Kyerɛ",
+      "category": "7"
+    },
+    {
+      "eng": "teeth",
+      "twi": "Ɛse",
+      "category": "2"
+    },
+    {
+      "eng": "tenth_born_female",
+      "twi": "Baduwaa",
+      "category": "5"
+    },
+    {
+      "eng": "tenth_born_male",
+      "twi": "Badu",
+      "category": "5"
+    },
+    {
+      "eng": "thank_you_1",
+      "twi": "Medaase",
+      "category": "4"
+    },
+    {
+      "eng": "thank_you_2",
+      "twi": "Me da wo ase",
+      "category": "4"
+    },
+    {
+      "eng": "they_are_all_fine",
+      "twi": "Wɔn nyinaa ho yɛ",
+      "category": "4"
+    },
+    {
+      "eng": "they_are_fine",
+      "twi": "Wɔn ho yɛ",
+      "category": "4"
+    },
+    {
+      "eng": "thigh",
+      "twi": "Srɛ",
+      "category": "2"
+    },
+    {
+      "eng": "think",
+      "twi": "Dwen",
+      "category": "7"
+    },
+    {
+      "eng": "third_born_female",
+      "twi": "Mansa",
+      "category": "5"
+    },
+    {
+      "eng": "third_born_male",
+      "twi": "Mensah",
+      "category": "5"
+    },
+    {
+      "eng": "thirteenth_born",
+      "twi": "Adusa",
+      "category": "5"
+    },
+    {
+      "eng": "throat_1",
+      "twi": "Mene",
+      "category": "2"
+    },
+    {
+      "eng": "throat_2",
+      "twi": "Menemu",
+      "category": "2"
+    },
+    {
+      "eng": "thumb",
+      "twi": "Kokuromoti",
+      "category": "2"
+    },
+    {
+      "eng": "tiger",
+      "twi": "Ɔsebɔ",
+      "category": "1"
+    },
+    {
+      "eng": "tigernut",
+      "twi": "Atadwe",
+      "category": "6"
+    },
+    {
+      "eng": "toe",
+      "twi": "Nansoaa",
+      "category": "2"
+    },
+    {
+      "eng": "tomato",
+      "twi": "Ntoosi",
+      "category": "6"
+    },
+    {
+      "eng": "tongue",
+      "twi": "Tɛkrɛma",
+      "category": "2"
+    },
+    {
+      "eng": "tortoise",
+      "twi": "Akyekyedeɛ",
+      "category": "1"
+    },
+    {
+      "eng": "triplets",
+      "twi": "Ahenasa",
+      "category": "5"
+    },
+    {
+      "eng": "try_v",
+      "twi": "Bɔ Mmɔden",
+      "category": "7"
+    },
+    {
+      "eng": "tsetsefly",
+      "twi": "Ohurii",
+      "category": "1"
+    },
+    {
+      "eng": "twelveth_born",
+      "twi": "Adunu",
+      "category": "5"
+    },
+    {
+      "eng": "twins",
+      "twi": "Ntafoɔ",
+      "category": "5"
+    },
+    {
+      "eng": "vegetable",
+      "twi": "Atosodeɛ",
+      "category": "6"
+    },
+    {
+      "eng": "vegetable_oil",
+      "twi": "Anwa",
+      "category": "6"
+    },
+    {
+      "eng": "vein",
+      "twi": "Ntini",
+      "category": "2"
+    },
+    {
+      "eng": "vulture_1",
+      "twi": "Pɛtɛ",
+      "category": "1"
+    },
+    {
+      "eng": "vulture_2",
+      "twi": "Kɔkɔsakyi",
+      "category": "1"
+    },
+    {
+      "eng": "waist",
+      "twi": "Sisi",
+      "category": "2"
+    },
+    {
+      "eng": "walk",
+      "twi": "Nante",
+      "category": "7"
+    },
+    {
+      "eng": "wash",
+      "twi": "Hohoro",
+      "category": "7"
+    },
+    {
+      "eng": "wash_clothes_1",
+      "twi": "Horo ntade",
+      "category": "7"
+    },
+    {
+      "eng": "wash_clothes_2",
+      "twi": "Si ntade",
+      "category": "7"
+    },
+    {
+      "eng": "water",
+      "twi": "Nsuo",
+      "category": "6"
+    },
+    {
+      "eng": "we_love_you",
+      "twi": "Yɛdɔ mo",
+      "category": "4"
+    },
+    {
+      "eng": "we_will_miss_you",
+      "twi": "Yɛbɛfe wo",
+      "category": "4"
+    },
+    {
+      "eng": "we_will_miss_you_plural",
+      "twi": "Yɛbɛfe mo",
+      "category": "4"
+    },
+    {
+      "eng": "wear",
+      "twi": "Hyɛ",
+      "category": "7"
+    },
+    {
+      "eng": "welcome",
+      "twi": "Akwaaba",
+      "category": "4"
+    },
+    {
+      "eng": "whale",
+      "twi": "Bonsu",
+      "category": "1"
+    },
+    {
+      "eng": "what_are_you_buying",
+      "twi": "Woretɔ dɛn?",
+      "category": "3"
+    },
+    {
+      "eng": "what_is_your_name_1",
+      "twi": "Yɛfrɛ wo sɛn?",
+      "category": "4"
+    },
+    {
+      "eng": "what_is_your_name_2",
+      "twi": "Wo din de sɛn?",
+      "category": "4"
+    },
+    {
+      "eng": "what_should_i_buy",
+      "twi": "Dɛn na mentɔ?",
+      "category": "3"
+    },
+    {
+      "eng": "what_would_you_like_to_buy",
+      "twi": "Dɛn na wopɛ sɛ wotɔ?",
+      "category": "3"
+    },
+    {
+      "eng": "wheat",
+      "twi": "Ayuo",
+      "category": "6"
+    },
+    {
+      "eng": "where_can_i_buy___",
+      "twi": "Ɛhe na menya...atɔ?",
+      "category": "3"
+    },
+    {
+      "eng": "where_can_i_buy_water",
+      "twi": "Ɛhe na menya nsuo atɔ?",
+      "category": "3"
+    },
+    {
+      "eng": "where_is_the_toilet",
+      "twi": "Agyananbea no wɔ he?",
+      "category": "4"
+    },
+    {
+      "eng": "which_animal",
+      "twi": "Aboa bɛn?",
+      "category": "1"
+    },
+    {
+      "eng": "which_animal_is_this",
+      "twi": "Aboa bɛn ni?",
+      "category": "1"
+    },
+    {
+      "eng": "who_is_selling",
+      "twi": "Hena na ɔretɔn?",
+      "category": "3"
+    },
+    {
+      "eng": "widow",
+      "twi": "Okunafo",
+      "category": "5"
+    },
+    {
+      "eng": "widower",
+      "twi": "Barima kunafo",
+      "category": "5"
+    },
+    {
+      "eng": "wife",
+      "twi": "Yere",
+      "category": "5"
+    },
+    {
+      "eng": "wink",
+      "twi": "Bɔ w'ani",
+      "category": "7"
+    },
+    {
+      "eng": "wives",
+      "twi": "Yerenom",
+      "category": "5"
+    },
+    {
+      "eng": "wolf_1",
+      "twi": "Pataku",
+      "category": "1"
+    },
+    {
+      "eng": "wolf_2",
+      "twi": "Sakraman",
+      "category": "1"
+    },
+    {
+      "eng": "womb_1",
+      "twi": "Awode",
+      "category": "2"
+    },
+    {
+      "eng": "womb_2",
+      "twi": "Awotwaa",
+      "category": "2"
+    },
+    {
+      "eng": "work",
+      "twi": "Adwuma",
+      "category": "3"
+    },
+    {
+      "eng": "worm",
+      "twi": "Sonsono",
+      "category": "1"
+    },
+    {
+      "eng": "wrist",
+      "twi": "Abakɔn",
+      "category": "2"
+    },
+    {
+      "eng": "yam",
+      "twi": "Bayerɛ",
+      "category": "6"
+    },
+    {
+      "eng": "yell",
+      "twi": "Tea mu",
+      "category": "7"
+    },
+    {
+      "eng": "yes",
+      "twi": "Aane",
+      "category": "4"
+    },
+    {
+      "eng": "younger_twin",
+      "twi": "Ata kakra",
+      "category": "5"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "RECORDS": [
+    {
+      "id": 1,
+      "name": "Animals"
+    },
+    {
+      "id": 2,
+      "name": "BodyPart"
+    },
+    {
+      "id": 3,
+      "name": "BusinessVocals"
+    },
+    {
+      "id": 4,
+      "name": "CommonExpression"
+    },
+    {
+      "id": 5,
+      "name": "family"
+    },
+    {
+      "id": 6,
+      "name": "food and fruit"
+    },
+    {
+      "id": 7,
+      "name": "verbs"
+    }
+  ]
+}
